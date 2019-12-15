@@ -1,0 +1,65 @@
+E:\smi\OOP\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.exe.config
+E:\smi\OOP\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.exe
+E:\smi\OOP\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.pdb
+E:\smi\OOP\hotel manengment system\hotel manengment system\bin\Debug\MySql.Data.dll
+E:\smi\OOP\hotel manengment system\hotel manengment system\bin\Debug\Google.Protobuf.dll
+E:\smi\OOP\hotel manengment system\hotel manengment system\bin\Debug\BouncyCastle.Crypto.dll
+E:\smi\OOP\hotel manengment system\hotel manengment system\bin\Debug\MySql.Data.xml
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.csprojResolveAssemblyReference.cache
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.Form1.resources
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.Properties.Resources.resources
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.exe
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.pdb
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.Form2.resources
+E:\smi\OOP\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.reservation.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.exe.config
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.exe
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.pdb
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.Properties.Resources.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.reservation.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.exe
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.pdb
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\MySql.Data.dll
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\Google.Protobuf.dll
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\BouncyCastle.Crypto.dll
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\MySql.Data.xml
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.food_and_menu.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.bill.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.view.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.roomavail.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.over.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.room_service.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\bin\Debug\ChreneLib.dll
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.too.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.search_data.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.food_kitchen.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.Login.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.admin.resources
+E:\smi\OOP\project\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.csprojResolveAssemblyReference.cache
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.exe.config
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.exe
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.pdb
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.exe
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\hotel manengment system.pdb
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\ChreneLib.dll
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\MySql.Data.dll
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\Google.Protobuf.dll
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\BouncyCastle.Crypto.dll
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\bin\Debug\MySql.Data.xml
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.csprojResolveAssemblyReference.cache
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.bill.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.food_and_menu.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.food_kitchen.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.Login.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.admin.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.over.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.Properties.Resources.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.reservation.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.room_service.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.roomavail.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.search_data.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.too.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.view.resources
+E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache

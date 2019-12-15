@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23959EAE-900E-4D5A-8CA2-FAC074284C07}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hotel_manengment_system</RootNamespace>
+    <AssemblyName>hotel manengment system</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ChreneLib">
+      <HintPath>C:\Users\Rrs computers\Downloads\ChreneLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bill.Designer.cs">
+      <DependentUpon>bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="food and menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="food and menu.Designer.cs">
+      <DependentUpon>food and menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitchen Food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitchen Food.Designer.cs">
+      <DependentUpon>kitchen Food.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="over.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="over.Designer.cs">
+      <DependentUpon>over.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reservation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="reservation.Designer.cs">
+      <DependentUpon>reservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitchen.Designer.cs">
+      <DependentUpon>kitchen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="roomavail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="roomavail.Designer.cs">
+      <DependentUpon>roomavail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="search data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="search data.Designer.cs">
+      <DependentUpon>search data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="too.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="too.Designer.cs">
+      <DependentUpon>too.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="view.Designer.cs">
+      <DependentUpon>view.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bill.resx">
+      <DependentUpon>bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="food and menu.resx">
+      <DependentUpon>food and menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitchen Food.resx">
+      <DependentUpon>kitchen Food.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="over.resx">
+      <DependentUpon>over.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reservation.resx">
+      <DependentUpon>reservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitchen.resx">
+      <DependentUpon>kitchen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="roomavail.resx">
+      <DependentUpon>roomavail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search data.resx">
+      <DependentUpon>search data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="too.resx">
+      <DependentUpon>too.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view.resx">
+      <DependentUpon>view.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOSHINOYA_Kyoto_Horizontal_1800x1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel5.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
