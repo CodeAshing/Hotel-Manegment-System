@@ -38,13 +38,13 @@ namespace hotel_manengment_system
             string selectt = "SELECT * FROM reserved";
             DataTable tablee = new DataTable();
             MySqlDataAdapter adapterr = new MySqlDataAdapter(selectt, connect);
-            adapterr.Fill(tablee);
+            //adapterr.Fill(tablee);
             reservedd.DataSource = tablee;
 
             string select = "SELECT * FROM Occupied";
             DataTable tabl = new DataTable();
             MySqlDataAdapter adapter = new MySqlDataAdapter(select, connect);
-            adapter.Fill(tabl);
+            //adapter.Fill(tabl);
             occupiedd.DataSource = tabl;
         }
         private void roomavail_Load(object sender, EventArgs e)

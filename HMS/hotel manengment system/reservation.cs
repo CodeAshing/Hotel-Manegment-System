@@ -34,13 +34,13 @@ namespace hotel_manengment_system
             }
         }
         void fillcombo()
-        {
+        {/*
             reservsearchcb.Items.Clear();
             MySqlCommand combocommand = new MySqlCommand("select * from reservation", connect);
             MySqlDataReader myreader;
             try
             {
-                connect.Open();;
+                //connect.Open();;
 
                 myreader = combocommand.ExecuteReader();
                 while(myreader.Read())
@@ -55,7 +55,7 @@ namespace hotel_manengment_system
             finally
             {
                 connect.Close();
-            }
+            }*/
            
         }
         public MySqlCommand command;
@@ -202,7 +202,7 @@ namespace hotel_manengment_system
         private void button2_Click(object sender, EventArgs e)
         {
 
-            currentp = int.Parse(nofguestcb.Text)*20;
+            /*currentp = int.Parse(nofguestcb.Text)*20;
             if (clean == "YES")
             {
                 currentp = currentp + 10;
@@ -214,7 +214,7 @@ namespace hotel_manengment_system
             if (towel == "YES")
             {
                 currentp = currentp + 10;
-            }
+            }*/
             totalp = currentp + foodp + 20;
             var billl = new bill(this);
             billl.Show();

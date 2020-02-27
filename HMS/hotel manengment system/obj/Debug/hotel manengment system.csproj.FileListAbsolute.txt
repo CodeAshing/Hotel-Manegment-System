@@ -63,3 +63,26 @@ E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\De
 E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.too.resources
 E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel_manengment_system.view.resources
 E:\smi\OOP\project - Copy\hotel manengment system\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache
+D:\project - Copy\HMS\hotel manengment system\bin\Debug\hotel manengment system.exe.config
+D:\project - Copy\HMS\hotel manengment system\bin\Debug\hotel manengment system.exe
+D:\project - Copy\HMS\hotel manengment system\bin\Debug\hotel manengment system.pdb
+D:\project - Copy\HMS\hotel manengment system\bin\Debug\Google.Protobuf.dll
+D:\project - Copy\HMS\hotel manengment system\bin\Debug\BouncyCastle.Crypto.dll
+D:\project - Copy\HMS\hotel manengment system\bin\Debug\MySql.Data.xml
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel manengment system.csprojResolveAssemblyReference.cache
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.bill.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.food_and_menu.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.food_kitchen.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.Login.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.admin.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.over.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.Properties.Resources.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.reservation.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.room_service.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.roomavail.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.search_data.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.too.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.view.resources
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel manengment system.exe
+D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel manengment system.pdb

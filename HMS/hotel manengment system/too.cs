@@ -21,13 +21,13 @@ namespace hotel_manengment_system
         }
         void fillcombo()
         {
-
+            /*
             listcb.Items.Clear();
             MySqlCommand combocommand = new MySqlCommand("select * from kitchen", connect);
             MySqlDataReader myreader;
             try
             {
-                connect.Open(); ;
+                //connect.Open(); ;
 
                 myreader = combocommand.ExecuteReader();
                 while (myreader.Read())
@@ -42,7 +42,7 @@ namespace hotel_manengment_system
             finally
             {
                 connect.Close();
-            }
+            }*/
 
         }
         public void openconnect()
@@ -169,7 +169,7 @@ namespace hotel_manengment_system
             listcb.Text = "                         LIST";
         }
         private void searchbutton_Click(object sender, EventArgs e)
-        {
+        {/*
             string[] value = listcb.Text.Split(' ');
             MySqlDataReader sear;
             MySqlCommand command = new MySqlCommand("SELECT *FROM kitchen WHERE Phonenumber=" +Convert.ToDouble(value[0]), connect);
@@ -224,7 +224,7 @@ namespace hotel_manengment_system
             finally
             {
                 closeconnect();
-            }
+            }*/
         }
 
         private void checkBox4_CheckedChanged(object sender, EventArgs e)

@@ -25,7 +25,7 @@ namespace hotel_manengment_system
             string select = "SELECT * FROM reservation";
             DataTable table = new DataTable();
             MySqlDataAdapter adapter = new MySqlDataAdapter(select, connect);
-            adapter.Fill(table);
+            //adapter.Fill(table);
             viewr.DataSource = table;
         }
 

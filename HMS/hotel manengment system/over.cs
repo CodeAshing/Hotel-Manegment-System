@@ -26,7 +26,7 @@ namespace hotel_manengment_system
             string select = "SELECT * FROM kitchen";
             DataTable table = new DataTable();
             MySqlDataAdapter adapter = new MySqlDataAdapter(select, connect);
-            adapter.Fill(table);
+            //adapter.Fill(table);
            dataGridView1.DataSource = table;
         }
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
