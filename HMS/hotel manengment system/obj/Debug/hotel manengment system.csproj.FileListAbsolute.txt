@@ -86,3 +86,49 @@ D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.
 D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache
 D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel manengment system.exe
 D:\project - Copy\HMS\hotel manengment system\obj\Debug\hotel manengment system.pdb
+D:\HMS\HMS\hotel manengment system\bin\Debug\hotel manengment system.exe.config
+D:\HMS\HMS\hotel manengment system\bin\Debug\hotel manengment system.exe
+D:\HMS\HMS\hotel manengment system\bin\Debug\hotel manengment system.pdb
+D:\HMS\HMS\hotel manengment system\bin\Debug\Google.Protobuf.dll
+D:\HMS\HMS\hotel manengment system\bin\Debug\BouncyCastle.Crypto.dll
+D:\HMS\HMS\hotel manengment system\bin\Debug\MySql.Data.xml
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.csprojResolveAssemblyReference.cache
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.bill.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.food_and_menu.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.food_kitchen.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.Login.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.admin.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.over.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.Properties.Resources.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.reservation.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.room_service.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.roomavail.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.search_data.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.too.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.view.resources
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.exe
+D:\HMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.pdb
+D:\HospitalMS\HMS\hotel manengment system\bin\Debug\hotel manengment system.exe.config
+D:\HospitalMS\HMS\hotel manengment system\bin\Debug\hotel manengment system.exe
+D:\HospitalMS\HMS\hotel manengment system\bin\Debug\hotel manengment system.pdb
+D:\HospitalMS\HMS\hotel manengment system\bin\Debug\Google.Protobuf.dll
+D:\HospitalMS\HMS\hotel manengment system\bin\Debug\BouncyCastle.Crypto.dll
+D:\HospitalMS\HMS\hotel manengment system\bin\Debug\MySql.Data.xml
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.csprojResolveAssemblyReference.cache
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.bill.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.food_and_menu.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.food_kitchen.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.Login.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.admin.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.over.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.Properties.Resources.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.reservation.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.room_service.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.roomavail.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.search_data.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.too.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel_manengment_system.view.resources
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.csproj.GenerateResource.Cache
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.exe
+D:\HospitalMS\HMS\hotel manengment system\obj\Debug\hotel manengment system.pdb
